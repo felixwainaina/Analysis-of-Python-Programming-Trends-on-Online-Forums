@@ -1,4 +1,4 @@
-## Project Title: **Analysis of Python Programming Trends on Online Forums**
+## **Analysis of Python Programming Trends on Online Forums**
 
 ### Project Overview
 This project aims to explore trends and patterns in Python programming questions posted on popular online forums (e.g., Stack Overflow). By collecting and analyzing data from these platforms, the study will provide insights into common challenges faced by developers, popular libraries, and evolving programming practices.
